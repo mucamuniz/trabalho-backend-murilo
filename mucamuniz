@@ -1,0 +1,6 @@
+cd trabalho-backend-murilo
+git init
+git remote add origin https://github.com/seu-usuario/trabalho-backend-murilo.git
+git add .
+git commit -m "Trabalho de Engenharia de Software"
+git push -u origin master
