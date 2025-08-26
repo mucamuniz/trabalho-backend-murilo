@@ -1,0 +1,16 @@
+{
+  "name": "trabalho-backend-murilo",
+  "version": "1.0.0",
+  "description": "API RESTful para o trabalho de Engenharia de Software - Back-End",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Murilo Santana - Matrícula: 4833677",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  }
+}
